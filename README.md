@@ -8,5 +8,5 @@ När spelaren skrivit ett val och tryckt enter visas spelarens val och datorns v
 Mellan varje val visas poängställning för spelaren och datorn.
 Spelet pågår tills spelaren skriver "exit".
 
-Jag gjorde vissa förändringar som att spelet inte avslutas fören exit skrivs 
+Jag gjorde vissa tillägg som att spelet inte avslutas fören exit skrivs 
 och att poäng visas som inte ingick i instruktionerna.
